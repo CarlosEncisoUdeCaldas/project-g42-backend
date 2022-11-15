@@ -1,0 +1,19 @@
+{
+  "name": "project-g42-backend",
+  "version": "1.0.0",
+  "description": "Proyecto del grupo G42 MisionTic 2022 UCaldas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Carlos Enciso",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
